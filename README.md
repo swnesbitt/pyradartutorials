@@ -21,6 +21,7 @@ git pull
 ## Syllabus
 
 - Week 1: Installing the tutorials using `git`, <a href="http://publish.illinois.edu/snesbitt/resources/installing-pyart-on-keeling">Installing Anaconda on a linux/MacOS machine</a>, <a href="http://publish.illinois.edu/snesbitt/resources/using-jupyter-notebook-on-keeling/">Using jupyter notebook on keeling</a>, <a href="http://publish.illinois.edu/snesbitt/installing-py-art-and-other-radar-software-on-keeling/">Installing Py-ART in anaconda</a>.
+You can grab anaconda python locally from here: `/data/snesbitt/a/snesbitt/python/Anaconda3-4.4.0-Linux-x86_64.sh`
 - Week 2: Introduction to jupyter notebooks, investigating the Py-ART object
 - Week 3: Plotting PPIs, RHIs, polar coordinates vs. radar coordinates vs. earth-relative coordinates
 - Week 4: Doppler unfolding
