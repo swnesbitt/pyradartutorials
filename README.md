@@ -20,7 +20,7 @@ git pull
 
 ## Syllabus
 
-Week 1: Installing the tutorials using `git`, <a href="Installing Anaconda on a linux machine">http://publish.illinois.edu/snesbitt/resources/installing-pyart-on-keeling/</a>, <a href="http://publish.illinois.edu/snesbitt/resources/using-jupyter-notebook-on-keeling/">Using jupyter notebook on keeling"</a>, <a href="http://publish.illinois.edu/snesbitt/installing-py-art-and-other-radar-software-on-keeling/">Installing Py-ART in anaconda</a>.
+Week 1: Installing the tutorials using `git`, <a href="Installing Anaconda on a linux machine">http://publish.illinois.edu/snesbitt/resources/installing-pyart-on-keeling/</a>, <a href="http://publish.illinois.edu/snesbitt/resources/using-jupyter-notebook-on-keeling/">Using jupyter notebook on keeling</a>, <a href="http://publish.illinois.edu/snesbitt/installing-py-art-and-other-radar-software-on-keeling/">Installing Py-ART in anaconda</a>.
 
 ## Contact
 
