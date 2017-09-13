@@ -22,16 +22,17 @@ git pull
 
 - Week 1: Installing the tutorials using `git`, <a href="http://publish.illinois.edu/snesbitt/resources/installing-pyart-on-keeling">Installing Anaconda on a linux/MacOS machine</a>, <a href="http://publish.illinois.edu/snesbitt/resources/using-jupyter-notebook-on-keeling/">Using jupyter notebook on keeling</a>, <a href="http://publish.illinois.edu/snesbitt/installing-py-art-and-other-radar-software-on-keeling/">Installing Py-ART in anaconda</a>.
 - Week 2: Introduction to jupyter notebooks, investigating the Py-ART object
-- Week 3: Plotting PPIs, RHIs
+- Week 3: Plotting PPIs, RHIs, polar coordinates vs. radar coordinates vs. earth-relative coordinates
 - Week 4: Doppler unfolding
 - Week 5: Calculating specific differential phase
-- Week 6: Quality control, gatefilters
-- Week 7: Gridding and interpolation
-- Week 8: Working with NEXRAD Level II on Amazon Web Services
-- Week 9: Correcting for attenuation
-- Week 10: Blended rain rate estimation
-- Week 11: Hydrometeor identification
-- Week 12: Polarimetric microphysical retrievals
+- Week 6: Relationships among polarimetric variables, pytmatrix
+- Week 7: Quality control, gatefilters
+- Week 8: Gridding and interpolation
+- Week 9: Working with NEXRAD Level II on Amazon Web Services
+- Week 10: Correcting for attenuation
+- Week 11: Blended rain rate estimation
+- Week 12: Hydrometeor identification
+- Week 13: Polarimetric microphysical retrievals
 
 ## Contact
 
