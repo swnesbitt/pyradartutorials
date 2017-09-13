@@ -1,7 +1,5 @@
 # pyradartutorials
 
----
-
 This set of tutorials is being developed as part of a Fall 2017 brown bag seminar series on advanced radar data analysis using python at the University of Illinois at Urbana-Champaign.  It is hoped that this series will provide an introductory toolkit for anyone looking to learn how to analyze radar data.
 
 If you have suggestions on how to make these tutorials better, create a pull request!
