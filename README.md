@@ -32,7 +32,7 @@ git pull
 - Week 10: Correcting for attenuation
 - Week 11: Blended rain rate estimation
 - Week 12: Hydrometeor identification
-- Week 13: Polarimetric microphysical retrievals
+- Week 13: Polarimetric DSD retrievals, pyDSD
 
 ## Contact
 
