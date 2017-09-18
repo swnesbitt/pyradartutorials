@@ -17,7 +17,11 @@ To get the latest updates, type the following from the pyradartutorials director
 ```
 git pull
 ```
-
+To install the pyradartutorials conda environment run:
+```
+conda env create -f environment.yml
+```
+And then ```source activate pyradartutorials``` to enable the environment.
 ## Syllabus
 
 - Week 1: Installing the tutorials using `git`, <a href="http://publish.illinois.edu/snesbitt/resources/installing-pyart-on-keeling">Installing Anaconda on a linux/MacOS machine</a>, <a href="http://publish.illinois.edu/snesbitt/resources/using-jupyter-notebook-on-keeling/">Using jupyter notebook on keeling</a>, <a href="http://publish.illinois.edu/snesbitt/installing-py-art-and-other-radar-software-on-keeling/">Installing Py-ART in anaconda</a>.

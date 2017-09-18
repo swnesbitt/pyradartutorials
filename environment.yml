@@ -1,0 +1,19 @@
+name: pyradartutorials
+channels:
+- conda-forge
+dependencies:
+- python=3.6
+- numpy
+- matplotlib
+- cartopy
+- jupyter
+- netcdf4
+- xarray
+- scipy
+- boto
+- basemap
+- basemap-data-hires
+- boto3
+- pip:
+  - git+https://github.com/ARM-DOE/pyart.git
+  - git+https://github.com/CSU-Radarmet/CSU_RadarTools.git
