@@ -14,6 +14,7 @@ dependencies:
 - basemap
 - basemap-data-hires
 - boto3
+- cython
 - pip:
   - git+https://github.com/ARM-DOE/pyart.git
   - git+https://github.com/CSU-Radarmet/CSU_RadarTools.git
